@@ -21,4 +21,4 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CCRami&label=Profile%20views&color=b40e77&style=flat" alt="Rami" /> </p>
 <h3 align="center">Listen with me on Spotify 🎵 </h3>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ep5ct6wihwmw93efd2vlf20j5&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ep5ct6wihwmw93efd2vlf20j5&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)" /></div>  
